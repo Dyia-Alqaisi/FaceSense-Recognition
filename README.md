@@ -62,3 +62,13 @@ Trains a robust classifier using a modular Scikit-Learn architecture.
 Install all dependencies via pip:
 ```bash
 pip install opencv-python pywavelets scikit-learn pandas numpy joblib openpyxl
+```
+
+## 📝 License
+
+This project code is open source under the **MIT License**.
+
+However, the **PINS Face Recognition Dataset** used in this project is subject to the **CC BY-NC-SA 4.0** license.
+* **Code:** Free to use for personal and commercial projects.
+* **Dataset:** Attribution required, Non-commercial use only, Share Alike.
+
