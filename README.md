@@ -3,6 +3,7 @@
 This project implements an end-to-end facial recognition and verification workflow using the **PINS Face Recognition dataset**. It combines traditional Computer Vision (Haar Cascades) with advanced Signal Processing (Discrete Wavelet Transforms) and Machine Learning (SVM) to classify individuals as `Approved` or `Denied`.
 
 * **Dataset Source:** [PINS Face Recognition Dataset on Kaggle](https://www.kaggle.com/datasets/hereisburak/pins-face-recognition/data)
+* **Project Documentation:** [📄 **Download Full Project Report (PDF)**](ProjectDocumentation.pdf)
 * **Core Technologies:** OpenCV, PyWavelets, Scikit-Learn
 
 ---
@@ -39,11 +40,13 @@ Trains a robust classifier using a modular Scikit-Learn architecture.
 
 ---
 
-## 📂 Notebook File
+## 📂 Project Files
 
 | File | Description |
 | :--- | :--- |
 | `FaceRecognition_Wavelet_SVM_Pipeline.ipynb` | The complete end-to-end pipeline from raw data to saved model |
+| `ProjectDocumentation.pdf` | Detailed technical report including methodology and results |
+| `dataset.xlsx` | Metadata and status labels for the image dataset |
 
 ---
 
